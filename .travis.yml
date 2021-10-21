@@ -28,5 +28,5 @@ deploy:
 
 addons:
   sonarcloud:
-    organization: COLOQUE_A_Organization Key
+    organization: luis-sena
     token: ${SONAR_TOKEN}
